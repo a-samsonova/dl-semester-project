@@ -1,4 +1,4 @@
-##Dog breed classifier
+## Dog breed classifier
 
 A Telegram bot which takes a photo of a dog and returns its breed.
 
